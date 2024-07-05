@@ -1,4 +1,6 @@
 # SpaceSet
-A simulated on-orbit observing dataset, contain rgb image, sparse lidar point, dense point ground truth
+A simulated on-orbit observing dataset, contains RGB image, sparse lidar point, dense point ground truth
 
-The dataset and code will be release soon.
+The dataset can be found in https://drive.google.com/file/d/1csM0TmW_kBYBWt5e41nemTj-w6Ig3Oir/view?usp=drive_link
+
+and https://pan.baidu.com/s/1NNLEqC7Ce14zVS-LcvYosA?pwd=6m17
